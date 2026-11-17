@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>SavasSoft Studio - GeoFlags</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding-top: 50px; background-color: #121212; color: #ffffff; }
+        h1 { color: #4CAF50; }
+    </style>
+</head>
+<body>
+    <h1>SavasSoft Studio</h1>
+    <p>GeoFlags resmi web sitesine hoş geldiniz.</p>
+    <p><a href="app-ads.txt" style="color: #4CAF50;">app-ads.txt</a></p>
+</body>
+</html>
